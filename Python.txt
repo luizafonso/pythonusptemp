@@ -1,0 +1,10 @@
+Entrada de dados:
+Dados inseridos pelo teclado (função input) sempre são string.
+
+Ex:
+temperatura = input("Informe uma temperatura: ")
+temperatura = float(temperatura)
+
+Ou direto:
+temperatura = float(input("Informe uma temperatura: "))
+------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+_______________________________________________________________________
+_______________________________________________________________________
+Para subir seus arquivos para um repositório
+-----------------------------------------------------------------------
+_______________________________________________________________________
+git init
+git add *
+git commit -m "primeiro commit"
+git remote add https://github.com/luizafonso/cursoUSP.git
+git push -u origin master (aqui ele abre a janela para usuário e senha)
+-----------------
+git add *
+git commit -m "segundo commit"
+git push -u origin master (aqui ele abre a janela para usuário e senha)
+-----------------
+fica repetindo esses 3 comando sempre que salvar e adicionar arquivos
+_______________________________________________________________________
+_______________________________________________________________________
+Para clonar um repositório
+-----------------------------------------------------------------------
+_______________________________________________________________________
+git init
+git clone https://github.com/luizafonso/cursoUSP.git
